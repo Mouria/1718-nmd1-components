@@ -1,0 +1,33 @@
+.btn{
+    border : 1px solid #f00;
+    padding:5px 16px;
+    border-radius:3px;
+    text-decoration: none;
+    color:#f00;
+    font-family: 'Pacifico', cursive;
+}
+.btn:hover {
+    background:#f00;
+    color: #fff
+}
+.primary-btn{
+    background: #0f0;
+    color:#fff;
+    border-color:#00F;
+
+}
+.primary-btn:hover{
+    background:#fff;
+    color : #0f0;
+
+}
+.secondary-btn{
+    background: #00F;
+    color:#f00;
+    border-color:#FF1;
+}
+.secondary-btn:hover{
+    background:purple;
+    color :black;
+
+}
